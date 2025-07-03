@@ -163,3 +163,9 @@ python pumpkin_analysis.py
 ## 工具对比
 - **Matplotlib**：灵活性高，可定制细节，但代码量较大，适合复杂图表
 - **Seaborn**：语法简洁，内置美观主题，适合快速生成统计图表，更易上手
+
+![南瓜价格分布](./price_distribution.png)
+![不同南瓜品种的价格分布](./variety_price.png)
+![主要城市的南瓜平均价格](./city_price.png)
+![南瓜价格月度趋势](./monthly_trend.png)
+![南瓜大小与价格的关系](./size_price.png)
